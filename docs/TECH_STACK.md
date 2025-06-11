@@ -1,0 +1,11 @@
+## Tech Stack
+- AWS EKS
+- Terraform
+- Humanitec
+- GitHub Actions
+- JFrog Artifactory
+- Cloudflare
+- Datadog
+- HashiCorp Vault
+- Backstage
+- Atlassian Compass
